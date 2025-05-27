@@ -11,5 +11,3 @@ This is a modern and interactive landing page designed using HTML, CSS, and Java
 - Mobile responsive behavior with simplified UI
 - Custom font-based branding and style
 
-## 📁 Folder Structure
-
